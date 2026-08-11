@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shanmugaa2007&label=Profile%20Views&color=2AA9F3&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Shanmugaa2007&label=Profile%20Views&color=2AA9F3&style=flat" alt="Profile Views" />
   <a href="https://github.com/Shanmugaa2007?tab=followers">
-    <img src="https://img.shields.io/github/followers/Shanmugaa2007?label=Followers&style=flat&color=2AA9F3" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Shanmugaa2007?label=Followers&style=flat&color=2AA9F3" alt="Followers" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2AA9F3&height=2&section=header" alt="divider" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,rust,reactnative,git,github,docker,figma,vscode,postman" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,rust,reactnative,git,github,docker,figma,vscode,postman" alt="Tech Stack" />
 </p>
 
 <p align="left">
@@ -93,19 +93,14 @@ A custom desktop browser built using **Rust + egui**.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanmugaa2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmugaa2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
----
-
-### 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanmugaa2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
@@ -113,7 +108,7 @@ A custom desktop browser built using **Rust + egui**.
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmugaa2007&theme=tokyo-night&hide_border=true&area=true&custom_title=Shanmugaa2007%27s%20Contribution%20Graph" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmugaa2007&theme=tokyo-night&hide_border=true&area=true&custom_title=Shanmugaa2007%27s%20Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 ---
@@ -121,15 +116,7 @@ A custom desktop browser built using **Rust + egui**.
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shanmugaa2007/Shanmugaa2007/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-### 💻 Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shanmugaa2007&theme=tokyonight&hide_border=true" alt="Coding Activity" />
+  <img src="https://raw.githubusercontent.com/Shanmugaa2007/Shanmugaa2007/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -138,10 +125,14 @@ A custom desktop browser built using **Rust + egui**.
 
 <p align="center">
 
-🤖 <b>AI Agents</b> &nbsp; • &nbsp;
-🧠 <b>Machine Learning</b> &nbsp; • &nbsp;
-🔗 <b>LLM Applications</b> &nbsp; • &nbsp;
-📱 <b>Mobile AI</b> &nbsp; • &nbsp;
+🤖 <b>AI Agents</b>
+&nbsp; • &nbsp;
+🧠 <b>Machine Learning</b>
+&nbsp; • &nbsp;
+🔗 <b>LLM Applications</b>
+&nbsp; • &nbsp;
+📱 <b>Mobile AI</b>
+&nbsp; • &nbsp;
 🌐 <b>Full Stack Development</b>
 
 </p>
@@ -156,7 +147,7 @@ A custom desktop browser built using **Rust + egui**.
 <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/System_Design-2AA9F3?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Automation-2AA9F3?style=for-the-badge&logo=robotframework&logoColor=white" />
 
 </p>
 
@@ -217,7 +208,5 @@ Learn → Build → Fail → Improve → Ship → Repeat 🚀
 ---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2AA9F3&height=120&section=footer" alt="footer wave" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2AA9F3&height=120&section=footer" alt="Footer Wave" />
 </p>
