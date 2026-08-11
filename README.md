@@ -1,63 +1,145 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm SHANMUGANATHAN S</h1>
+<h3 align="center">A passionate Software Engineer, AI/ML Developer & Founder from India</h3>
 
-# 👋 Hey, I'm Shanmuganathan S
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2AA9F3&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;AI%2FML+Developer;Data+Analytics+Enthusiast;Founder+%40+Zenvy+Technologies;Continuous+Learner" alt="Typing SVG" />
+</p>
 
-### Software Engineer • AI/ML Developer • Founder @ Zenvy Technologies
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Products+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Developer+%F0%9F%A7%A0;MERN+Stack+Developer+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%94%A5" alt="Typing Animation" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Shanmugaa2007&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/Shanmugaa2007?label=FOLLOWERS&style=for-the-badge&color=blue" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shanmugaa2007&label=Profile%20Views&color=2AA9F3&style=flat" alt="profile views" />
+  <a href="https://github.com/Shanmugaa2007?tab=followers">
+    <img src="https://img.shields.io/github/followers/Shanmugaa2007?label=Followers&style=flat&color=2AA9F3" alt="followers" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+### 🚀 About Me
 
-## 🚀 Building. Learning. Innovating.
-
-</div>
-
-I'm a **Software Engineer and Founder** passionate about building real-world software products, AI-powered applications, and scalable digital solutions.
-
-I enjoy working across **Full Stack Development, Artificial Intelligence, Machine Learning, Data Analytics, Mobile Development, and Systems Programming.**
-
-> 💡 My goal is simple: **Turn ideas into useful products that solve real-world problems.**
+- 🔭 I'm currently working on **AI-powered products, ZenvyLance & VoiceAI Mobile**
+- 🌱 I'm currently learning **Artificial Intelligence, Machine Learning, AI Agents & Deep Learning**
+- 👯 I'm looking to collaborate on **AI, Full Stack & Open Source Projects**
+- 💬 Ask me about **MERN Stack, React, Node.js, Python, AI/ML & Data Analytics**
+- 🏢 Founder of **Zenvy Technologies**
+- 🎓 **Computer Science Engineering Student**
+- ⚡ Fun fact: **I love turning ideas into real-world software products 🚀**
 
 ---
 
-# 🧑‍💻 About Me
+### 🛠️ Languages & Tools
 
-```javascript
-const shanmuganathan = {
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,rust,reactnative,git,github,docker,figma,vscode,postman" alt="tech stack" />
+</p>
 
-    name: "Shanmuganathan S",
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</p>
 
-    role: "Software Engineer",
+---
 
-    founder: "Zenvy Technologies",
+### 🚀 Featured Projects
 
-    interests: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "AI Agents",
-        "Full Stack Development",
-        "Mobile Development",
-        "Data Analytics",
-        "Systems Programming"
-    ],
+#### 🌐 ZenvyLance
 
-    currentlyBuilding: [
-        "AI-powered products",
-        "Mobile AI Automation",
-        "Developer Tools",
-        "SaaS Products"
-    ],
+AI-powered freelance ecosystem built by **Zenvy Technologies**.
 
-    philosophy:
-        "Build. Learn. Iterate. Ship. 🚀"
-};
+- 🤖 AI Validation Score
+- 💰 Secure Escrow Payments
+- 🎯 Smart Freelancer Matching
+- 📊 AI-based Project Evaluation
+- 🔔 Notifications
+- 💬 Client & Freelancer Communication
+
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • AI
+
+---
+
+#### 🤖 VoiceAI Mobile
+
+AI-powered mobile automation assistant designed to perform mobile tasks through voice and AI agents.
+
+- 🎙️ Voice-based interaction
+- 🤖 AI Agent
+- 📱 Mobile automation
+- ⚡ Intelligent task execution
+- 🧠 AI-powered decision making
+
+**Tech Stack:** React Native • Node.js • Express.js • Python • AI
+
+---
+
+#### 🌐 Zenvy Browser
+
+A custom desktop browser built using **Rust + egui**.
+
+- 🗂️ Multi-tab browsing
+- 🔖 Bookmarks
+- 🕘 History
+- 📥 Downloads Manager
+- ⚙️ Settings
+- 🌐 Browser Engine
+
+**Tech Stack:** Rust • eframe • egui
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanmugaa2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmugaa2007&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanmugaa2007&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmugaa2007&theme=tokyo-night" alt="activity graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shanmugaa2007/Shanmugaa2007/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shanmugaa2007&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shanmuganathan23" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/Shanmugaa2007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://zenvytechnologies.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2AA9F3&height=100&section=footer" alt="footer wave" />
+</p>
