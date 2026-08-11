@@ -1,40 +1,58 @@
 <h1 align="center">Hi 👋, I'm SHANMUGANATHAN S</h1>
-<h3 align="center">A passionate Software Engineer, AI/ML Developer & Founder from India</h3>
+
+<h3 align="center">
+  Software Engineer • Full Stack Developer • AI/ML Developer • Founder
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2AA9F3&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI%2FML+Developer;Data+Analytics+Enthusiast;AI+Agent+Builder;Founder+%40+Zenvy+Technologies;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2AA9F3&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;AI%2FML+Developer;Data+Analytics+Enthusiast;AI+Agent+Builder;Founder+%40+Zenvy+Technologies;Building+Ideas+Into+Products+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shanmugaa2007&label=Profile%20Views&color=2AA9F3&style=flat" alt="Profile Views" />
-  <a href="https://github.com/Shanmugaa2007?tab=followers">
-    <img src="https://img.shields.io/github/followers/Shanmugaa2007?label=Followers&style=flat&color=2AA9F3" alt="Followers" />
-  </a>
+  <img src="https://img.shields.io/github/followers/Shanmugaa2007?label=Followers&style=flat&color=2AA9F3" alt="Followers" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2AA9F3&height=2&section=header" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2AA9F3&height=2" alt="divider" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 I'm currently working on **AI-powered products, ZenvyLance & VoiceAI Mobile**
-- 🌱 I'm currently learning **Artificial Intelligence, Machine Learning, AI Agents & Deep Learning**
-- 👯 I'm looking to collaborate on **AI, Full Stack & Open Source Projects**
+- 🔭 Currently building **AI-powered products, ZenvyLance & VoiceAI Mobile**
+- 🌱 Currently learning **AI, Machine Learning, AI Agents & Deep Learning**
+- 👯 Looking to collaborate on **AI, Full Stack & Open Source Projects**
 - 💬 Ask me about **MERN Stack, React, Node.js, Python, AI/ML & Data Analytics**
 - 🏢 Founder of **Zenvy Technologies**
-- 🎓 **Computer Science Engineering Student**
-- ⚡ Fun fact: **I love turning ideas into real-world software products 🚀**
+- 🎓 Computer Science Engineering Student
+- 💡 Passionate about **turning ideas into real-world software products**
+- ⚡ **Learn → Build → Fail → Improve → Ship → Repeat 🚀**
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
+
+### 👨‍💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,rust,reactnative,git,github,docker,figma,vscode,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" alt="Programming Languages" />
 </p>
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql" alt="Web Technologies" />
+</p>
+
+### 📱 Mobile & Desktop
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=reactnative,rust" alt="Mobile and Desktop Technologies" />
+</p>
+
+### 🤖 AI / ML / Data
 
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -45,13 +63,21 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
+### 🔧 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman" alt="Tools" />
+</p>
+
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🌐 ZenvyLance
+### 🌐 ZenvyLance
 
 AI-powered freelance ecosystem built by **Zenvy Technologies**.
+
+**Features**
 
 - 🤖 AI Validation Score
 - 💰 Secure Escrow Payments
@@ -60,13 +86,17 @@ AI-powered freelance ecosystem built by **Zenvy Technologies**.
 - 🔔 Notifications
 - 💬 Client & Freelancer Communication
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • AI
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `AI`
 
 ---
 
-#### 🤖 VoiceAI Mobile
+### 🤖 VoiceAI Mobile
 
 AI-powered mobile automation assistant designed to perform mobile tasks through voice and AI agents.
+
+**Features**
 
 - 🎙️ Voice-based interaction
 - 🤖 AI Agent
@@ -74,13 +104,17 @@ AI-powered mobile automation assistant designed to perform mobile tasks through 
 - ⚡ Intelligent task execution
 - 🧠 AI-powered decision making
 
-**Tech Stack:** React Native • Node.js • Express.js • Python • AI
+**Tech Stack**
+
+`React Native` `Node.js` `Express.js` `Python` `AI`
 
 ---
 
-#### 🌐 Zenvy Browser
+### 🌐 Zenvy Browser
 
 A custom desktop browser built using **Rust + egui**.
+
+**Features**
 
 - 🗂️ Multi-tab browsing
 - 🔖 Bookmarks
@@ -89,23 +123,25 @@ A custom desktop browser built using **Rust + egui**.
 - ⚙️ Settings
 - 🌐 Browser Engine
 
-**Tech Stack:** Rust • eframe • egui
+**Tech Stack**
+
+`Rust` `eframe` `egui`
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanmugaa2007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmugaa2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmugaa2007&theme=tokyo-night&hide_border=true&area=true&custom_title=Shanmugaa2007%27s%20Contribution%20Graph" alt="Contribution Graph" />
@@ -113,7 +149,7 @@ A custom desktop browser built using **Rust + egui**.
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shanmugaa2007/Shanmugaa2007/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
@@ -121,7 +157,7 @@ A custom desktop browser built using **Rust + egui**.
 
 ---
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 
 <p align="center">
 
@@ -139,7 +175,7 @@ A custom desktop browser built using **Rust + egui**.
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
 <p align="center">
 
@@ -153,7 +189,7 @@ A custom desktop browser built using **Rust + egui**.
 
 ---
 
-### 🏗️ My Development Journey
+## 🏗️ My Development Journey
 
 <p align="center">
 
@@ -173,7 +209,7 @@ A custom desktop browser built using **Rust + egui**.
 
 ---
 
-### 💭 Developer Philosophy
+## 💭 Developer Philosophy
 
 <p align="center">
 
@@ -187,19 +223,19 @@ Learn → Build → Fail → Improve → Ship → Repeat 🚀
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com/in/shanmuganathan23" target="_blank">
+<a href="https://linkedin.com/in/shanmuganathan23">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://github.com/Shanmugaa2007" target="_blank">
+<a href="https://github.com/Shanmugaa2007">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="https://shan-official-portfolio.netlify.app" target="_blank">
+<a href="https://shan-official-portfolio.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
