@@ -117,7 +117,7 @@ A custom desktop browser built using **Rust + egui**.
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shanmugaa2007&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shanmugaa2007&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
