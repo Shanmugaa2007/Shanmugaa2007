@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer, AI/ML Developer & Founder from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2AA9F3&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;AI%2FML+Developer;Data+Analytics+Enthusiast;Founder+%40+Zenvy+Technologies;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2AA9F3&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI%2FML+Developer;Data+Analytics+Enthusiast;AI+Agent+Builder;Founder+%40+Zenvy+Technologies;Continuous+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,6 +10,10 @@
   <a href="https://github.com/Shanmugaa2007?tab=followers">
     <img src="https://img.shields.io/github/followers/Shanmugaa2007?label=Followers&style=flat&color=2AA9F3" alt="followers" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" alt="divider" />
 </p>
 
 ---
@@ -92,16 +96,24 @@ A custom desktop browser built using **Rust + egui**.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanmugaa2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmugaa2007&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanmugaa2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanmugaa2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanmugaa2007&theme=tokyonight" alt="GitHub Streak" />
-</p>
+---
+
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmugaa2007&theme=tokyo-night" alt="activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanmugaa2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmugaa2007&theme=tokyo-night&hide_border=true&area=true&custom_title=Shanmugaa2007%27s%20Contribution%20Graph" alt="activity graph" />
 </p>
 
 ---
@@ -114,10 +126,72 @@ A custom desktop browser built using **Rust + egui**.
 
 ---
 
-### 🏆 GitHub Trophies
+### 💻 Coding Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.s3.us-west-2.amazonaws.com/?username=Shanmugaa2007" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shanmugaa2007&theme=tokyonight&hide_border=true" alt="Coding Activity" />
+</p>
+
+---
+
+### 🎯 Current Focus
+
+<p align="center">
+
+🤖 <b>AI Agents</b> &nbsp; • &nbsp;
+🧠 <b>Machine Learning</b> &nbsp; • &nbsp;
+🔗 <b>LLM Applications</b> &nbsp; • &nbsp;
+📱 <b>Mobile AI</b> &nbsp; • &nbsp;
+🌐 <b>Full Stack Development</b>
+
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Design-2AA9F3?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+
+</p>
+
+---
+
+### 🏗️ My Development Journey
+
+<p align="center">
+
+💡 <b>Ideate</b>
+&nbsp; → &nbsp;
+🧠 <b>Design</b>
+&nbsp; → &nbsp;
+💻 <b>Build</b>
+&nbsp; → &nbsp;
+🧪 <b>Test</b>
+&nbsp; → &nbsp;
+🚀 <b>Deploy</b>
+&nbsp; → &nbsp;
+🔄 <b>Improve</b>
+
+</p>
+
+---
+
+### 💭 Developer Philosophy
+
+<p align="center">
+
+<b>"Don't just learn technology. Build something with it."</b>
+
+<br><br>
+
+Learn → Build → Fail → Improve → Ship → Repeat 🚀
+
 </p>
 
 ---
@@ -125,21 +199,25 @@ A custom desktop browser built using **Rust + egui**.
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shanmuganathan23" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 
-  <a href="https://github.com/Shanmugaa2007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<a href="https://linkedin.com/in/shanmuganathan23" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-  <a href="https://shan-official-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+<a href="https://github.com/Shanmugaa2007" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://shan-official-portfolio.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2AA9F3&height=100&section=footer" alt="footer wave" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2AA9F3&height=120&section=footer" alt="footer wave" />
+
 </p>
