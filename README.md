@@ -133,7 +133,7 @@ A custom desktop browser built using **Rust + egui**.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="https://zenvytechnologies.vercel.app" target="_blank">
+  <a href="https://shan-official-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
