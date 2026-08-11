@@ -1,80 +1,63 @@
-# Hi, I'm Shanmuganathan 👋
+<div align="center">
 
-### Software Engineer | AI/ML Developer | Founder
+# 👋 Hey, I'm Shanmuganathan S
 
-I build scalable web applications, AI-powered solutions,
-and developer-focused products.
+### Software Engineer • AI/ML Developer • Founder @ Zenvy Technologies
 
-🚀 Founder @ Zenvy Technologies
-💻 MERN Stack Developer
-🤖 AI/ML Enthusiast
-📊 Data Analytics
-🌐 Building real-world products
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Products+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Developer+%F0%9F%A7%A0;MERN+Stack+Developer+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%94%A5" alt="Typing Animation" />
 
----
+<br>
 
-## 🚀 What I Do
+<img src="https://komarev.com/ghpvc/?username=Shanmugaa2007&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" />
 
-- Full Stack Web Development
-- AI & Machine Learning
-- Data Analytics
-- Mobile Application Development
-- Software Product Development
+<img src="https://img.shields.io/github/followers/Shanmugaa2007?label=FOLLOWERS&style=for-the-badge&color=blue" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Languages
-C • C++ • Java • Python • JavaScript • Rust
+## 🚀 Building. Learning. Innovating.
 
-### Frontend
-React.js • React Native • HTML • CSS
+</div>
 
-### Backend
-Node.js • Express.js • Django • FastAPI
+I'm a **Software Engineer and Founder** passionate about building real-world software products, AI-powered applications, and scalable digital solutions.
 
-### Database
-MongoDB • SQL • MongoDB Atlas
+I enjoy working across **Full Stack Development, Artificial Intelligence, Machine Learning, Data Analytics, Mobile Development, and Systems Programming.**
 
-### AI / ML
-NumPy • Pandas • Matplotlib
-Scikit-learn • PyTorch • TensorFlow
-
-### Tools
-Git • GitHub • VS Code • Postman • Figma
+> 💡 My goal is simple: **Turn ideas into useful products that solve real-world problems.**
 
 ---
 
-## 🚀 Featured Projects
+# 🧑‍💻 About Me
 
-### 🌐 ZenvyLance
-AI-powered freelance ecosystem with:
-- AI Validation Score
-- Secure Escrow Payments
-- Smart Freelancer Matching
+```javascript
+const shanmuganathan = {
 
-### 🌐 Zenvy Browser
-A custom desktop browser built using Rust and egui.
+    name: "Shanmuganathan S",
 
-### 🤖 VoiceAI Mobile
-AI-powered mobile automation assistant
-designed for voice-based device interaction.
+    role: "Software Engineer",
 
----
+    founder: "Zenvy Technologies",
 
-## 📊 GitHub Stats
+    interests: [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "AI Agents",
+        "Full Stack Development",
+        "Mobile Development",
+        "Data Analytics",
+        "Systems Programming"
+    ],
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shanmugaa2007&show_icons=true&theme=tokyonight)
+    currentlyBuilding: [
+        "AI-powered products",
+        "Mobile AI Automation",
+        "Developer Tools",
+        "SaaS Products"
+    ],
 
----
-
-## 🔗 Connect With Me
-
-[LinkedIn](YOUR_LINKEDIN)
-[Portfolio](YOUR_PORTFOLIO)
-[GitHub](https://github.com/Shanmugaa2007)
-
----
-
-⭐ Always learning. Always building.
+    philosophy:
+        "Build. Learn. Iterate. Ship. 🚀"
+};
