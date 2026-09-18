@@ -107,21 +107,21 @@ Voice-controlled AI mobile automation assistant.
 
 ---
 
-## 🌐 Zenvy Browser
+## 📊 Student Grade Prediction Model
 
-Custom desktop browser built with **Rust + egui**.
+Machine Learning project that predicts student performance using **Scikit-learn's Logistic Regression**.
 
 ### Features
 
-- Multi-tab Browsing
-- Bookmarks
-- History
-- Downloads
-- Native Desktop UI
+- Student Performance Prediction
+- Data Preprocessing
+- Feature Engineering
+- Model Training & Evaluation
+- Accuracy-based Performance Analysis
 
 **Tech Stack**
 
-`Rust` `eframe` `egui`
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Logistic Regression`
 
 ---
 
