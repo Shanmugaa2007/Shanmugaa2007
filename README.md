@@ -1,87 +1,144 @@
-<h1 align="center">Hi, I'm Shanmuganathan S 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>AI & AI Agent Engineer • Founder at Zenvy Technologies</strong>
-</p>
+# Hi, I'm Shanmuganathan S 👋
 
-<p align="center">
-  Building intelligent products, AI agents, and open-source projects.
-</p>
+### AI & AI Agent Engineer • Founder at Zenvy Technologies
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+AI+Products.;Developing+AI+Agents.;Founder+%40+Zenvy+Technologies.;Learning.+Building.+Shipping." alt="Typing SVG"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+Products.;Developing+AI+Agents.;Founder+%40+Zenvy+Technologies.;Open+Source+Builder.;Learning.+Building.+Shipping." alt="Typing SVG"/>
 
-<p align="center">
+<p>
   <a href="https://github.com/agentshanz">
-    <img src="https://komarev.com/ghpvc/?username=agentshanz&label=Profile+Views&style=flat-square"/>
+    <img src="https://komarev.com/ghpvc/?username=agentshanz&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
   </a>
   <a href="https://github.com/agentshanz?tab=followers">
-    <img src="https://img.shields.io/github/followers/agentshanz?style=flat-square"/>
+    <img src="https://img.shields.io/github/followers/agentshanz?style=for-the-badge"/>
   </a>
 </p>
 
----
-
-## About Me
-
-I'm a Computer Science Engineering student and the founder of **Zenvy Technologies**, where I'm focused on building practical AI-powered software products.
-
-- 🤖 Building AI agents and intelligent applications
-- 🚀 Founder of **Zenvy Technologies**
-- 💻 Full-stack developer with MERN experience
-- 🧠 Exploring Machine Learning, Deep Learning, and LLMs
-- 🌍 Open to collaboration on AI and open-source projects
-
-> **Build first. Learn continuously. Ship consistently.**
+</div>
 
 ---
 
-## Currently Building
+# About Me
 
-| Project | Description |
-|---------|-------------|
-| **SenseAble AI** | AI accessibility assistant for real-world assistance. |
-| **ZenvyLance** | AI-powered freelance ecosystem with intelligent matching. |
-| **VoiceAI Mobile** | Voice-controlled mobile automation assistant. |
-| **Zenvy Browser** | Desktop browser built with Rust and egui. |
+I'm **Shanmuganathan S**, a Computer Science Engineering student and the **Founder of Zenvy Technologies**.
+
+I'm building AI-powered software that solves real-world problems—from accessibility assistants and AI agents to intelligent full-stack products.
+
+### Current Mission
+
+> Become a world-class **AI & AI Agent Engineer** by building products in public.
+
+### What I Do
+
+- Build AI-powered products
+- Develop AI Agents & LLM applications
+- Create full-stack web applications
+- Build mobile AI experiences
+- Contribute to open-source projects
 
 ---
 
-## Tech Stack
+# Founder Journey
 
-### Languages
+| Role | Focus |
+|------|-------|
+| Founder | Zenvy Technologies |
+| AI Builder | AI Agents & LLM Apps |
+| Full Stack Developer | MERN Ecosystem |
+| Product Builder | Turning ideas into products |
+
+---
+
+# Currently Building
+
+## SenseAble AI
+
+AI accessibility assistant designed to help people with different abilities through intelligent real-world assistance.
+
+**Focus**
+
+- Computer Vision
+- Voice AI
+- Accessibility
+- Mobile AI
+
+---
+
+## ZenvyLance
+
+AI-powered freelance ecosystem built by **Zenvy Technologies**.
+
+### Highlights
+
+- AI Validation Score
+- Secure Escrow Workflow
+- Smart Freelancer Matching
+- Intelligent Project Evaluation
+
+**Stack**
+
+`React` `Node.js` `Express` `MongoDB`
+
+---
+
+## VoiceAI Mobile
+
+Voice-controlled AI mobile assistant.
+
+- Voice Commands
+- AI Agents
+- Mobile Automation
+- Intelligent Task Execution
+
+---
+
+## Zenvy Browser
+
+Custom desktop browser built with Rust.
+
+- Multi Tabs
+- Bookmarks
+- History
+- Downloads
+- Native Desktop UI
+
+---
+
+# Tech Stack
+
+## Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c"/>
 </p>
 
-### AI & Data
+## AI & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### Full Stack
+## Full Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,html,css"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql"/>
 </p>
 
-### Mobile & Systems
+## Mobile & Systems
 
 <p>
 <img src="https://skillicons.dev/icons?i=reactnative,rust"/>
 </p>
 
-### Tools
+## Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman"/>
@@ -89,44 +146,138 @@ I'm a Computer Science Engineering student and the founder of **Zenvy Technologi
 
 ---
 
-## GitHub Analytics
+# GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agentshanz&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentshanz&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=agentshanz&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=agentshanz&theme=github-dark&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentshanz&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 
 ---
 
-## What I'm Focused On
+# GitHub Streak
 
-- AI Agents
-- Large Language Models
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=agentshanz&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=agentshanz&theme=github-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+> Enable this after creating the GitHub Action.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+<div align="center">
+
+| AI | Engineering | Product |
+|----|-------------|----------|
+| AI Agents | Full Stack | Startups |
+| LLM Apps | Open Source | Zenvy |
+| Deep Learning | Mobile AI | SaaS |
+
+</div>
+
+---
+
+# Learning Roadmap
+
 - Machine Learning
 - Deep Learning
-- Full Stack AI Products
-- Open Source
-- Startup Building
+- AI Agents
+- LLM Engineering
+- RAG Systems
+- Multi-Agent Systems
+- AI Automation
 
 ---
 
-## Connect
+# Open Source Goals
 
-<p align="left">
-<a href="https://linkedin.com/in/shanmuganathan23"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://github.com/agentshanz"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://shan-official-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-</p>
+- Build reusable AI projects
+- Publish Hugging Face demos
+- Contribute to open-source repositories
+- Share technical write-ups
+- Build in public
 
 ---
 
-<p align="center">
-  <strong>Building products that combine AI with real-world impact.</strong>
-</p>
+# Development Philosophy
+
+<div align="center">
+
+### Learn → Build → Ship → Improve → Repeat
+
+*"Don't just learn technology. Build something people can use."*
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shanmuganathan23">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/agentshanz">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://shan-official-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://zenvytechnologies.vercel.app">
+<img src="https://img.shields.io/badge/Zenvy_Technologies-111111?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# My 2026 Vision
+
+- Build impactful AI products
+- Master AI Agent Engineering
+- Grow Zenvy Technologies
+- Contribute to Open Source
+- Launch globally used software
+
+---
+
+<div align="center">
+
+## Thanks for visiting!
+
+**Building the future with AI, one product at a time.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+
+</div>
