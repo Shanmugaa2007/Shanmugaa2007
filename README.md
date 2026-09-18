@@ -166,13 +166,13 @@ Custom desktop browser built with **Rust + egui**.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=agentshanz&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="./profile/stats.svg"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentshanz&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="./profile/top-langs.svg"/>
 
 </div>
 
@@ -183,16 +183,6 @@ Custom desktop browser built with **Rust + egui**.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=agentshanz&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agentshanz&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
 
